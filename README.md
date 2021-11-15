@@ -1,9 +1,10 @@
 # TrackingMyPantry
-TrackinMyPantry is an app that allow users to keep track of the groceries they buy through their barcode and build up a collaborative database of barcodes that can be used by the community. This means that each developed app will make use of both a local database and a unique remote knowledge base that will be updated and queried. 
+TrackinMyPantry is an app that allow users to keep track of the groceries they buy through their barcode and build up a collaborative database of barcodes that can be used by the community. This means that each developed app will make use of both a local database and a unique remote knowledge base that will be updated and queried. There are also other features like: locations, notifications, filters, searchbar and expire dates.
 Develeped because of an exam at University of Bologna.
 Here are some screenshots.
 
-![immagine2](https://user-images.githubusercontent.com/79592276/141841325-e7e58ae2-e831-4c62-8ca0-0a396163964d.png)
-![Immagine3](https://user-images.githubusercontent.com/79592276/141841327-57190b29-6fdc-4ddd-80cf-96c33c74ce72.png)
-![immagine4](https://user-images.githubusercontent.com/79592276/141841328-0343992d-66a5-4155-934e-f94bc82d62a1.png)
-![immagine1](https://user-images.githubusercontent.com/79592276/141841329-ceef7843-409c-4976-af6f-345451b08b01.png)
+
+![immagine2](https://user-images.githubusercontent.com/79592276/141842111-a2e73352-40ce-462b-97dd-1a33c42b57c5.png)
+![Immagine3](https://user-images.githubusercontent.com/79592276/141842113-8b90f6e9-e2ec-45fc-b9ec-6ad570778ba8.png)
+![immagine4](https://user-images.githubusercontent.com/79592276/141842117-a63b816f-0b9b-4b8b-ad96-2b4ccbe4b3cf.png)
+![immagine1](https://user-images.githubusercontent.com/79592276/141842118-1fe0ff04-516e-46e5-b98a-f1046c209106.png)
