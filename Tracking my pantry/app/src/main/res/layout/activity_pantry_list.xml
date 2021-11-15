@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/carbButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Carboidrati"
+            android:backgroundTint="@color/white"
+            style="?android:attr/borderlessButtonStyle"
+            android:textColor="@color/black"></Button>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="Grassi"
+            android:backgroundTint="@color/white"
+            android:id="@+id/fatButton"
+            android:textColor="@color/black"
+            style="?android:attr/borderlessButtonStyle"
+            ></Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/proteinButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="@color/white"
+            style="?android:attr/borderlessButtonStyle"
+            android:text="Proteine"
+            android:textColor="@color/black"></Button>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="Bevande"
+            android:id="@+id/beverageButton"
+            style="?android:attr/borderlessButtonStyle"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/productList"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"/>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/reportButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Crea report vecchi prodotti"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+</LinearLayout>
